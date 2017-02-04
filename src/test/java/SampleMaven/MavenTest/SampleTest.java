@@ -19,6 +19,10 @@ public class SampleTest {
 	@Test
 	public void testRun() {
 		System.out.println("Running the tests..!!");
+		System.out.println("Running the tests..!!");
+		System.out.println("Running the tests..!!");
+		System.out.println("Running the tests..!!");
+
 	}
 
 }

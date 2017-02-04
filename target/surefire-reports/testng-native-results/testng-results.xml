@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="32" started-at="2017-02-04T00:54:10Z" finished-at="2017-02-04T00:54:10Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="32" started-at="2017-02-04T00:54:10Z" finished-at="2017-02-04T00:54:10Z">
+      <class name="SampleMaven.MavenTest.SampleTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:SampleMaven.MavenTest.SampleTest@340f438e]" name="setup" is-config="true" duration-ms="13" started-at="2017-02-03T18:54:10Z" finished-at="2017-02-03T18:54:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testRun()[pri:0, instance:SampleMaven.MavenTest.SampleTest@340f438e]" name="testRun" duration-ms="1" started-at="2017-02-03T18:54:10Z" finished-at="2017-02-03T18:54:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRun -->
+        <test-method status="PASS" signature="close()[pri:0, instance:SampleMaven.MavenTest.SampleTest@340f438e]" name="close" is-config="true" duration-ms="0" started-at="2017-02-03T18:54:10Z" finished-at="2017-02-03T18:54:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- SampleMaven.MavenTest.SampleTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
